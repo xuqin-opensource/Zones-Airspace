@@ -62,7 +62,7 @@ python AnnulusMovie.py
 - `annulus.mp4` - 可视化结果视频 / Visualization result video
 
 ### 3. 查看可视化结果 / View Visualization Results
-<img src="annulus.gif" width="400" height="400" />
+<img src="annulus.gif" width="600" height="600" />
 ---
 
 ## 📊 工作流程 / Workflow
