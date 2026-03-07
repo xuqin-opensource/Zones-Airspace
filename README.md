@@ -62,12 +62,7 @@ python AnnulusMovie.py
 - `annulus.mp4` - 可视化结果视频 / Visualization result video
 
 ### 3. 查看可视化结果 / View Visualization Results
-
-<video width="100%" controls>
-  <source src="annulus.mp4" type="video/mp4">
-  您的浏览器不支持 HTML5 视频标签。 / Your browser does not support HTML5 video tag.
-</video>
-
+<img src="annulus.gif" width="100" height="100" />
 ---
 
 ## 📊 工作流程 / Workflow
